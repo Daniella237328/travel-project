@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #272044;
+  background-color: #3b2044;
 }
 section {
   max-width: 100%;
@@ -9,7 +9,7 @@ section {
 }
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("../images/backgroundsd.jpg");
+    url("girafe.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -50,7 +50,7 @@ header a {
 main {
   background-color: white;
   line-height: 1.5;
-  color: #272044;
+  color: #362a65;
 }
 main h2 {
   font-weight: 700;
